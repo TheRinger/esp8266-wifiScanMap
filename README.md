@@ -25,4 +25,4 @@ This version was built on the Espressif sdk 1.2
 To set up your config, please check files [user_config.h](user/user_config.h) and [wifis_spots.h](user/wifis_spots.h)
 
 
-Please read the wifiScanMap [Readme](https://github.com/mehdilauters/wifiScanMap/blob/master/README.md) for more information
+Please read the wifiScanMap [Readme](https://github.com/mehdilauters/wifiScanMap/blob/master/README.md) for more information# esp8266-wifiScanMap

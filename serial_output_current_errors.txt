@@ -1,0 +1,388 @@
+PROBE: [                     xfinitywifi]  68725140a57f
+PROBE: [                     xfinitywifi]  68725140a57f
+CLIENT: 0023ae9eda26 works with:                       c0c1c0d1d4a6     ffffffffffff          0    -77
+Fatal exception 9(LoadStoreAlignmentCause):
+epc1=0x401008a0, epc2=0x00000000, epc3=0x00000000, excvaddr=0x00000003, depc=0x00000000
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x3ffe8000, len 972, room 16 
+tail 12
+chksum 0x96
+ho 0 tail 12 room 4
+load 0x3ffe83d0, len 1616, room 12 
+tail 4
+chksum 0x62
+load 0x40100000, len 29672, room 4 
+tail 4
+chksum 0x2d
+csum 0x2d
+rd⸮t⸮⸮⸮⸮5
+mode : sta(18:fe:34:d3:0a:04)
+add if0
+esp8266_13830660, Sdk version 1.5.3(aec24ac9)
+enable monitor
+BEACON: [                            ubnt]  c0c1c0d1d4a6    6   KEY    -74
+CLIENT: 0023ae9eda26 works with:                       c0c1c0d1d4a6     ffffffffffff          0    -75
+Fatal exception 9(LoadStoreAlignmentCause):
+epc1=0x401008a0, epc2=0x00000000, epc3=0x00000000, excvaddr=0x00000003, depc=0x00000000
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x3ffe8000, len 972, room 16 
+tail 12
+chksum 0x96
+ho 0 tail 12 room 4
+load 0x3ffe83d0, len 1616, room 12 
+tail 4
+chksum 0x62
+load 0x40100000, len 29672, room 4 
+tail 4
+chksum 0x2d
+csum 0x2d
+rl⸮"⸮⸮⸮⸮⸮5
+mode : sta(18:fe:34:d3:0a:04)
+add if0
+esp8266_13830660, Sdk version 1.5.3(aec24ac9)
+enable monitor
+BEACON: [                            ubnt]  c0c1c0d1d4a6    6   KEY    -74
+Fatal exception 9(LoadStoreAlignmentCause):
+epc1=0x401008a0, epc2=0x00000000, epc3=0x00000000, excvaddr=0x00000003, depc=0x00000000
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x3ffe8000, len 972, room 16 
+tail 12
+chksum 0x96
+ho 0 tail 12 room 4
+load 0x3ffe83d0, len 1616, room 12 
+tail 4
+chksum 0x62
+load 0x40100000, len 29672, room 4 
+tail 4
+chksum 0x2d
+csum 0x2d
+{$⸮t⸮⸮⸮⸮5
+mode : sta(18:fe:34:d3:0a:04)
+add if0
+esp8266_13830660, Sdk version 1.5.3(aec24ac9)
+enable monitor
+BEACON: [                            ubnt]  c0c1c0d1d4a6    6   KEY    -76
+CLIENT: 0023ae9eda26 works with:                       c0c1c0d1d4a6     ffffffffffff          0    -70
+Fatal exception 9(LoadStoreAlignmentCause):
+epc1=0x401008a0, epc2=0x00000000, epc3=0x00000000, excvaddr=0x00000003, depc=0x00000000
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x3ffe8000, len 972, room 16 
+tail 12
+chksum 0x96
+ho 0 tail 12 room 4
+load 0x3ffe83d0, len 1616, room 12 
+tail 4
+chksum 0x62
+load 0x40100000, len 29672, room 4 
+tail 4
+chksum 0x2d
+csum 0x2d
+{$⸮t⸮⸮⸮⸮5
+mode : sta(18:fe:34:d3:0a:04)
+add if0
+esp8266_13830660, Sdk version 1.5.3(aec24ac9)
+enable monitor
+BEACON: [                            ubnt]  c0c1c0d1d4a6    6   KEY    -72
+Fatal exception 9(LoadStoreAlignmentCause):
+epc1=0x401008a0, epc2=0x00000000, epc3=0x00000000, excvaddr=0x00000003, depc=0x00000000
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x3ffe8000, len 972, room 16 
+tail 12
+chksum 0x96
+ho 0 tail 12 room 4
+load 0x3ffe83d0, len 1616, room 12 
+tail 4
+chksum 0x62
+load 0x40100000, len 29672, room 4 
+tail 4
+chksum 0x2d
+csum 0x2d
+rd⸮t⸮⸮⸮⸮5
+mode : sta(18:fe:34:d3:0a:04)
+add if0
+esp8266_13830660, Sdk version 1.5.3(aec24ac9)
+enable monitor
+BEACON: [                            ubnt]  c0c1c0d1d4a6    6   KEY    -73
+Fatal exception 9(LoadStoreAlignmentCause):
+epc1=0x401008a0, epc2=0x00000000, epc3=0x00000000, excvaddr=0x00000003, depc=0x00000000
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x3ffe8000, len 972, room 16 
+tail 12
+chksum 0x96
+ho 0 tail 12 room 4
+load 0x3ffe83d0, len 1616, room 12 
+tail 4
+chksum 0x62
+load 0x40100000, len 29672, room 4 
+tail 4
+chksum 0x2d
+csum 0x2d
+rd⸮t⸮⸮⸮⸮5
+mode : sta(18:fe:34:d3:0a:04)
+add if0
+esp8266_13830660, Sdk version 1.5.3(aec24ac9)
+enable monitor
+BEACON: [                            ubnt]  c0c1c0d1d4a6    6   KEY    -76
+CLIENT: 0023ae9eda26 works with:                       c0c1c0d1d4a6     ffffffffffff          0    -75
+Fatal exception 9(LoadStoreAlignmentCause):
+epc1=0x401008a0, epc2=0x00000000, epc3=0x00000000, excvaddr=0x00000003, depc=0x00000000
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x3ffe8000, len 972, room 16 
+tail 12
+chksum 0x96
+ho 0 tail 12 room 4
+load 0x3ffe83d0, len 1616, room 12 
+tail 4
+chksum 0x62
+load 0x40100000, len 29672, room 4 
+tail 4
+chksum 0x2d
+csum 0x2d
+s$⸮t⸮⸮⸮⸮5
+mode : sta(18:fe:34:d3:0a:04)
+add if0
+esp8266_13830660, Sdk version 1.5.3(aec24ac9)
+enable monitor
+BEACON: [                            ubnt]  c0c1c0d1d4a6    6   KEY    -74
+Fatal exception 9(LoadStoreAlignmentCause):
+epc1=0x401008a0, epc2=0x00000000, epc3=0x00000000, excvaddr=0x00000003, depc=0x00000000
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x3ffe8000, len 972, room 16 
+tail 12
+chksum 0x96
+ho 0 tail 12 room 4
+load 0x3ffe83d0, len 1616, room 12 
+tail 4
+chksum 0x62
+load 0x40100000, len 29672, room 4 
+tail 4
+chksum 0x2d
+csum 0x2d
+rl⸮"⸮⸮⸮⸮⸮5
+mode : sta(18:fe:34:d3:0a:04)
+add if0
+esp8266_13830660, Sdk version 1.5.3(aec24ac9)
+enable monitor
+BEACON: [                            ubnt]  c0c1c0d1d4a6    6   KEY    -76
+Fatal exception 9(LoadStoreAlignmentCause):
+epc1=0x401008a0, epc2=0x00000000, epc3=0x00000000, excvaddr=0x00000003, depc=0x00000000
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x3ffe8000, len 972, room 16 
+tail 12
+chksum 0x96
+ho 0 tail 12 room 4
+load 0x3ffe83d0, len 1616, room 12 
+tail 4
+chksum 0x62
+load 0x40100000, len 29672, room 4 
+tail 4
+chksum 0x2d
+csum 0x2d
+sd⸮t⸮⸮⸮⸮5
+mode : sta(18:fe:34:d3:0a:04)
+add if0
+esp8266_13830660, Sdk version 1.5.3(aec24ac9)
+enable monitor
+BEACON: [                            ubnt]  c0c1c0d1d4a6    6   KEY    -77
+CLIENT: 0023ae9eda26 works with:                       c0c1c0d1d4a6     ffffffffffff          0    -76
+Fatal exception 9(LoadStoreAlignmentCause):
+epc1=0x401008a0, epc2=0x00000000, epc3=0x00000000, excvaddr=0x00000003, depc=0x00000000
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x3ffe8000, len 972, room 16 
+tail 12
+chksum 0x96
+ho 0 tail 12 room 4
+load 0x3ffe83d0, len 1616, room 12 
+tail 4
+chksum 0x62
+load 0x40100000, len 29672, room 4 
+tail 4
+chksum 0x2d
+csum 0x2d
+{$⸮t⸮⸮⸮⸮5
+mode : sta(18:fe:34:d3:0a:04)
+add if0
+esp8266_13830660, Sdk version 1.5.3(aec24ac9)
+enable monitor
+BEACON: [                            ubnt]  c0c1c0d1d4a6    6   KEY    -73
+CLIENT: 0023ae9eda26 works with:                       c0c1c0d1d4a6     ffffffffffff          0    -72
+Fatal exception 9(LoadStoreAlignmentCause):
+epc1=0x401008a0, epc2=0x00000000, epc3=0x00000000, excvaddr=0x00000003, depc=0x00000000
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x3ffe8000, len 972, room 16 
+tail 12
+chksum 0x96
+ho 0 tail 12 room 4
+load 0x3ffe83d0, len 1616, room 12 
+tail 4
+chksum 0x62
+load 0x40100000, len 29672, room 4 
+tail 4
+chksum 0x2d
+csum 0x2d
+s$⸮t⸮⸮⸮⸮5
+mode : sta(18:fe:34:d3:0a:04)
+add if0
+esp8266_13830660, Sdk version 1.5.3(aec24ac9)
+enable monitor
+BEACON: [                            ubnt]  c0c1c0d1d4a6    6   KEY    -77
+PROBE: [                     xfinitywifi]  68725140a57f
+Fatal exception 9(LoadStoreAlignmentCause):
+epc1=0x401008a0, epc2=0x00000000, epc3=0x00000000, excvaddr=0x00000003, depc=0x00000000
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x3ffe8000, len 972, room 16 
+tail 12
+chksum 0x96
+ho 0 tail 12 room 4
+load 0x3ffe83d0, len 1616, room 12 
+tail 4
+chksum 0x62
+load 0x40100000, len 29672, room 4 
+tail 4
+chksum 0x2d
+csum 0x2d
+rl⸮#⸮⸮⸮⸮⸮5
+mode : sta(18:fe:34:d3:0a:04)
+add if0
+esp8266_13830660, Sdk version 1.5.3(aec24ac9)
+enable monitor
+BEACON: [                            ubnt]  c0c1c0d1d4a6    6   KEY    -76
+CLIENT: 6c626d432d4f works with:                       c0c1c0d1d4a6     01005e7ffffa          0    -74
+Fatal exception 9(LoadStoreAlignmentCause):
+epc1=0x401008a0, epc2=0x00000000, epc3=0x00000000, excvaddr=0x00000003, depc=0x00000000
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x3ffe8000, len 972, room 16 
+tail 12
+chksum 0x96
+ho 0 tail 12 room 4
+load 0x3ffe83d0, len 1616, room 12 
+tail 4
+chksum 0x62
+load 0x40100000, len 29672, room 4 
+tail 4
+chksum 0x2d
+csum 0x2d
+rl⸮"⸮⸮⸮⸮⸮5
+mode : sta(18:fe:34:d3:0a:04)
+add if0
+esp8266_13830660, Sdk version 1.5.3(aec24ac9)
+enable monitor
+BEACON: [                            ubnt]  c0c1c0d1d4a6    6   KEY    -75
+CLIENT: 0023ae9eda26 works with:                       c0c1c0d1d4a6     ffffffffffff          0    -75
+Fatal exception 9(LoadStoreAlignmentCause):
+epc1=0x401008a0, epc2=0x00000000, epc3=0x00000000, excvaddr=0x00000003, depc=0x00000000
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x3ffe8000, len 972, room 16 
+tail 12
+chksum 0x96
+ho 0 tail 12 room 4
+load 0x3ffe83d0, len 1616, room 12 
+tail 4
+chksum 0x62
+load 0x40100000, len 29672, room 4 
+tail 4
+chksum 0x2d
+csum 0x2d
+rl⸮t⸮⸮⸮⸮5
+mode : sta(18:fe:34:d3:0a:04)
+add if0
+esp8266_13830660, Sdk version 1.5.3(aec24ac9)
+enable monitor
+BEACON: [                            ubnt]  c0c1c0d1d4a6    6   KEY    -77
+Fatal exception 9(LoadStoreAlignmentCause):
+epc1=0x401008a0, epc2=0x00000000, epc3=0x00000000, excvaddr=0x00000003, depc=0x00000000
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x3ffe8000, len 972, room 16 
+tail 12
+chksum 0x96
+ho 0 tail 12 room 4
+load 0x3ffe83d0, len 1616, room 12 
+tail 4
+chksum 0x62
+load 0x40100000, len 29672, room 4 
+tail 4
+chksum 0x2d
+csum 0x2d
+rd⸮t⸮⸮⸮⸮5
+mode : sta(18:fe:34:d3:0a:04)
+add if0
+esp8266_13830660, Sdk version 1.5.3(aec24ac9)
+enable monitor
+BEACON: [                            ubnt]  c0c1c0d1d4a6    6   KEY    -76
+Fatal exception 9(LoadStoreAlignmentCause):
+epc1=0x401008a0, epc2=0x00000000, epc3=0x00000000, excvaddr=0x00000003, depc=0x00000000
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x3ffe8000, len 972, room 16 
+tail 12
+chksum 0x96
+ho 0 tail 12 room 4
+load 0x3ffe83d0, len 1616, room 12 
+tail 4
+chksum 0x62
+load 0x40100000, len 29672, room 4 
+tail 4
+chksum 0x2d
+csum 0x2d
+rl⸮4⸮⸮⸮⸮5
+mode : sta(18:fe:34:d3:0a:04)
+add if0
+esp8266_13830660, Sdk version 1.5.3(aec24ac9)
+enable monitor
+BEACON: [                            ubnt]  c0c1c0d1d4a6    6   KEY    -74
+Fatal exception 9(LoadStoreAlignmentCause):
+epc1=0x401008a0, epc2=0x00000000, epc3=0x00000000, excvaddr=0x00000003, depc=0x00000000
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x3ffe8000, len 972, room 16 
+tail 12
+chksum 0x96
+ho 0 tail 12 room 4
+load 0x3ffe83d0, len 1616, room 12 
+tail 4
+chksum 0x62
+load 0x40100000, len 29672, room 4 
+tail 4
+chksum 0x2d
+csum 0x2d
+{$⸮t⸮⸮⸮⸮5
+mode : sta(18:fe:34:d3:0a:04)
+add if0
+esp8266_13830660, Sdk version 1.5.3(aec24ac9)
+enable monitor
+BEACON: [                            ubnt]  c0c1c0d1d4a6    6   KEY    -82
+Fatal exception 9(LoadStoreAlignmentCause):
+epc1=0x401008a0, epc2=0x00000000, epc3=0x00000000, excvaddr=0x00000003, depc=0x00000000
+
